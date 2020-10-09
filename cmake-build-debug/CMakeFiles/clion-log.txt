@@ -1,0 +1,4 @@
+"D:\Productivity\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Environment/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/Environment/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Environment/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\DataStructureAndAlgorithm\DataStructure_C137
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/DataStructureAndAlgorithm/DataStructure_C137/cmake-build-debug
