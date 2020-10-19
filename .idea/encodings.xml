@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true">
     <file url="file://$PROJECT_DIR$/1.Introduction/TimeComplexity/TimeComplexity.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/2.LinearTable/JosephRing/C/JosephRing.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/2.LinearTable/JosephRing/C/JosephRing.c" charset="GBK" />
   </component>
 </project>

@@ -3,3 +3,5 @@
 
 CMakeFiles/DataStructure_C137.dir/1.Introduction/TimeComplexity/TimeComplexity.c.obj: ../1.Introduction/TimeComplexity/TimeComplexity.c
 
+CMakeFiles/DataStructure_C137.dir/2.LinearTable/JosephRing/JosephRing.c.obj: ../2.LinearTable/JosephRing/JosephRing.c
+

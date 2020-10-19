@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "D:/DataStructureAndAlgorithm/DataStructure_C137/1.Introduction/TimeComplexity/TimeComplexity.c" "D:/DataStructureAndAlgorithm/DataStructure_C137/cmake-build-debug/CMakeFiles/DataStructure_C137.dir/1.Introduction/TimeComplexity/TimeComplexity.c.obj"
+  "D:/DataStructureAndAlgorithm/DataStructure_C137/2.LinearTable/JosephRing/C/JosephRing.c" "D:/DataStructureAndAlgorithm/DataStructure_C137/cmake-build-debug/CMakeFiles/DataStructure_C137.dir/2.LinearTable/JosephRing/C/JosephRing.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

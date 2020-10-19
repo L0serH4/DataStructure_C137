@@ -169,6 +169,33 @@ DataStructure_C137/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructure_C137.dir\build.make CMakeFiles/DataStructure_C137.dir/1.Introduction/TimeComplexity/TimeComplexity.c.s
 .PHONY : 1.Introduction/TimeComplexity/TimeComplexity.c.s
 
+2.LinearTable/JosephRing/C/JosephRing.obj: 2.LinearTable/JosephRing/C/JosephRing.c.obj
+
+.PHONY : 2.LinearTable/JosephRing/C/JosephRing.obj
+
+# target to build an object file
+2.LinearTable/JosephRing/C/JosephRing.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructure_C137.dir\build.make CMakeFiles/DataStructure_C137.dir/2.LinearTable/JosephRing/C/JosephRing.c.obj
+.PHONY : 2.LinearTable/JosephRing/C/JosephRing.c.obj
+
+2.LinearTable/JosephRing/C/JosephRing.i: 2.LinearTable/JosephRing/C/JosephRing.c.i
+
+.PHONY : 2.LinearTable/JosephRing/C/JosephRing.i
+
+# target to preprocess a source file
+2.LinearTable/JosephRing/C/JosephRing.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructure_C137.dir\build.make CMakeFiles/DataStructure_C137.dir/2.LinearTable/JosephRing/C/JosephRing.c.i
+.PHONY : 2.LinearTable/JosephRing/C/JosephRing.c.i
+
+2.LinearTable/JosephRing/C/JosephRing.s: 2.LinearTable/JosephRing/C/JosephRing.c.s
+
+.PHONY : 2.LinearTable/JosephRing/C/JosephRing.s
+
+# target to generate assembly for a file
+2.LinearTable/JosephRing/C/JosephRing.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructure_C137.dir\build.make CMakeFiles/DataStructure_C137.dir/2.LinearTable/JosephRing/C/JosephRing.c.s
+.PHONY : 2.LinearTable/JosephRing/C/JosephRing.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -181,6 +208,9 @@ help:
 	@echo ... 1.Introduction/TimeComplexity/TimeComplexity.obj
 	@echo ... 1.Introduction/TimeComplexity/TimeComplexity.i
 	@echo ... 1.Introduction/TimeComplexity/TimeComplexity.s
+	@echo ... 2.LinearTable/JosephRing/C/JosephRing.obj
+	@echo ... 2.LinearTable/JosephRing/C/JosephRing.i
+	@echo ... 2.LinearTable/JosephRing/C/JosephRing.s
 .PHONY : help
 
 

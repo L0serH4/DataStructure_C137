@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DataStructure_C137.dir/1.Introduction/TimeComplexity/TimeComplexity.c.obj"
+  "CMakeFiles/DataStructure_C137.dir/2.LinearTable/JosephRing/C/JosephRing.c.obj"
   "DataStructure_C137.exe"
   "DataStructure_C137.exe.manifest"
   "DataStructure_C137.pdb"
